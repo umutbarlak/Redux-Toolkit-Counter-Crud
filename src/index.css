@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.active {
+  text-shadow: 0 0 20px rgba(82, 93, 193, 0.982);
+}
